@@ -7,6 +7,11 @@ This module explored the basics of the react-testing library and ideas behind th
 ## Objectives
 
 - explain what automated testing is and its importance
+
+    - Automated testing is literal testing of user interactions automatically through code.  It allows us to test every user interaction automatically.  This
+    aids the development lifecycle by allowing us to continuously test these interactions after changes elsewhere that could potentially effect these interactions
+    unknowingly.  This ensures that no matter what is changed, these interactions act expectedly.
+
 - use react-testing-library for testing react components
 - use react-testing-library to test user interactions with userEvent
 - use async / await and waitFor to test changes in a components state.
